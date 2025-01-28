@@ -1013,7 +1013,7 @@ blockquote {
   padding-left: 20px;
   padding-right: 40px;
   display: flex;
-  bottom: 6px;
+  bottom: 12px;
 }
 
 .next.l {
@@ -1028,7 +1028,7 @@ blockquote {
   height: 50px;
   padding-top: 17px;
   font-size: 16px;
-  bottom: 6px;
+  bottom: 12px;
 }
 
 .icon-4 {
